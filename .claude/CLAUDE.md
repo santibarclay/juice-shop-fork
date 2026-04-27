@@ -30,7 +30,7 @@ Claude can assist with various development tasks, but all contributions must sti
 
 ## Essential Guidelines
 
-### 1. Clean Up AI-Generated Noise
+### 1. Clean Up AI-Generated Noise!
 
 **Required** per CONTRIBUTING.md rule #6: Remove unnecessary AI-generated content before submitting PRs.
 
